@@ -50,9 +50,9 @@ var config = {
     
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "点我开始",
-        play: "上音乐",
-        bannar_coming: "搞点颜色",
+        turn_on: "TURN ON THE LIGHTS",
+        play: "PALY MUSIC",
+        bannar_coming: "LET'S DECORATE IT",
         balloons_flying: "好像还少点东西",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
